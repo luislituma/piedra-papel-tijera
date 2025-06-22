@@ -2,6 +2,8 @@ UIDE
 Alumno: Luis Alfonso Lituma Vera
 Asignatura: Logica de Programación
 Proyecto: Software Piedra, Papel o Tijera
+Fecha: 22/07/2025
+
 
 ---------------
 
